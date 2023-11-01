@@ -24,9 +24,14 @@ public class Ejemplo05 {
         System.out.println(nombreEstudiante+"\n\n"+apellidoEstudiante+ "\n\n"+ 
                 nacimiento);
         
+        
         System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
                 "\n"+ nacimiento); */
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
-        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
+        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);  
+        /*
+        la diferencia de t es qu da un espacio ente palabras
+        la diferencia de n y t es que da salto de linea 
+        */
     }
 }
